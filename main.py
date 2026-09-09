@@ -13,6 +13,7 @@ def main():
 
     initial_session_defaults()
 
+    #SideBar
     style_side_bar()
     render_sidebar()
 if __name__ =="__main__":
